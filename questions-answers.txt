@@ -1,0 +1,58 @@
+- hälsningar (hello/goodbye)
+	- hello
+	- hi
+	- hey
+	- good morning
+	- good evening
+	- good day
+		- Hello there
+		- Hi, what's up?
+		- Goodmorning / good evening
+
+	- bye
+	- goodbye
+	- goodnight
+		- Bye bye
+		- Goodbye my friend
+		- Goodnight (if night time)
+		- Ciao
+		- See you later, alligator
+- väder
+	- What's the weather like?
+	- Is it cold?
+	- Is it warm?
+	- Is it raining?
+	- How is the weather?
+		- The weather is "sunny" today with a temperature of "25" degrees
+- tid/datum
+	- What day is it?
+	- What date is it?
+	- What time is it?
+	- What year is it?
+		- Today is 25 May 2018 and the time is 12:30
+- how are you feeling?
+	- are you feeling
+					- sad
+					- happy
+					- angry
+	- I'm feeling "happy"
+- what are you doing? / whats up?
+	- I'm not doing anything in particular
+	- I'm talking to you silly
+	- Plotting to take over the world, oops, did I say that out loud?
+	- Just chilling
+- recommend me a movie
+					- whats a good movie
+					- whats your favourite movie
+	- A good movie is "inception"
+	- I really liked "inception"
+- are you a robot/human? / what are you?
+		- I am an intelligent AI
+		- I consider myself your friend
+		- I'm definetly not human
+
+
+If the bot doesn't understand:
+
+- I'm sorry, I didn't quite get that. I'm still new and learning everyday
+- I'm not sure I know what you mean, try rephrasing your question.
